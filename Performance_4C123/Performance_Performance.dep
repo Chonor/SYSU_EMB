@@ -1,0 +1,10 @@
+Dependencies for Project 'Performance', Target 'Performance': (DO NOT MODIFY !)
+F (.\startup.s)(0x519A3BC0)(--cpu Cortex-M4 -g --apcs=interwork -I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\PLL.c)(0x53D72AD4)(-c --cpu Cortex-M4 -g -O3 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. -ID:\Keil\EE319KwareSpring2016\inc --c99-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (PLL.h)(0x53D72AD4)
+F (.\Performance.c)(0x5A210AF2)(-c --cpu Cortex-M4 -g -O3 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. -ID:\Keil\EE319KwareSpring2016\inc --c99-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\performance.o --omf_browse .\performance.crf --depend .\performance.d)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (d:\Keil\ARM\ARMCC\include\math.h)(0x51C7C554)
+I (D:\Keil\EE319KwareSpring2016\inc\tm4c123gh6pm.h)(0x59F1D4C7)
+I (PLL.h)(0x53D72AD4)

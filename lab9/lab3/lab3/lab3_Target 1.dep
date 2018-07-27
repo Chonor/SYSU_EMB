@@ -1,0 +1,5 @@
+Dependencies for Project 'lab3', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532BF32A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x5A294941)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -IC:\Keil\EE319KwareSpring2016\driverlib -IC:\Keil\EE319KwareSpring2016\inc -IC:\Keil\EE319KwareSpring2016\driverlib -IC:\Keil\EE319KwareSpring2016\inc-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\EE319KwareSpring2016\inc\tm4c123gh6pm.h)(0x53E5963A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
